@@ -1,4 +1,4 @@
-package com.ds.sort;
+package com.ds.search;
 
 import java.util.Scanner;
 
